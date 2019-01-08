@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="ver_datos_guardados">Ver Datos Guardados</string>
+    <string name="calcular_imc">Calcular IMC</string>
+    <string name="altura">Altura</string>
+    <string name="Calcularedit">Calcular</string>
+    <string name="alturaedit">Altura</string>
+    <string name="edad">Edad</string>
+    <string name="peso">Peso</string>
+    <string name="sexo">Sexo</string>
+    <string name="Edad">edadtext</string>
+    <string name="pesotext">Peso</string>
+    <string name="hombreradio">Hombre</string>
+    <string name="mujerradio">Mujer</string>
+    <string name="EdadDatoTextView">18</string>
+    <string name="edadTV">Edad:</string>
+    <string name="pesoTV">Peso:</string>
+    <string name="alturaTV">Altura</string>
+    <string name="AlturaDatoTV">1.70</string>
+    <string name="grabar_datos">Grabar Datos</string>
+    <string name="regresar">Regresar</string>
+    <string name="PesoDatoTV">100</string>
+    <string name="ImcDatoTV">23.040</string>
+    <string name="ImcTV">IMC:</string>
+    <string name="EdadTV">Edad:</string>
+    <string name="edEditable">Edad</string>
+    <string name="PesoEditable">Peso</string>
+    <string name="nombre">Nombre:</string>
+    <string name="nombreEditText">Pepe</string>
+    <string name="apellidos">Apellidos:</string>
+    <string name="escribir_en_fichero">Escribir en fichero</string>
+    <string name="escribirApellidos">Anastacio</string>
+    <string name="nombreET">Nombre</string>
+    <string name="buscarbtn">Buscar</string>
+</resources>
